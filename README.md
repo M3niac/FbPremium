@@ -16,9 +16,9 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf MRrayan`
-- `git clone https://github.com/Rayan-XD/FBPrem`
-- `cd FBPren`
-- `python MRrayanprem.py`
+- `git clone https://github.com/Rayan-XD/FbPremium`
+- `cd FbPremium`
+- `python FbPremium.py`
      
 
  ```Ini Tools Free Enjoy ```</br>
